@@ -1,0 +1,22 @@
+{
+    "en": {
+      "default": {
+        "string_key_1": "Hello",
+        "string_key_2": "world"
+      },
+      "test1": {
+        "string_key_1": "Testing Hello",
+        "string_key_2": "Testing world"
+      }
+    },
+    "fr": {
+      "default": {
+        "string_key_1": "Bonjour",
+        "string_key_2": "monde"
+      },
+      "test1": {
+        "string_key_1": "Testing Bonjour",
+        "string_key_2": "Testing monde"
+      }
+    }
+  }
